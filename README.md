@@ -20,27 +20,51 @@ Improper waste disposal and limited access to reliable recycling information can
 
 ## Design Preview
 
-<!-- Add your UI screenshots to the UI_design folder and update the filenames below. -->
-
 <table>
   <tr>
     <td align="center" width="50%">
-      <strong>Home Screen</strong><br><br>
-      <img src="UI_design/Homepage.png" width="70%" alt="SortIt! Malaysia Home Screen">
+      <strong>Homepage</strong><br><br>
+      <img src="UI_sortIt/Homepage.png" width="70%" alt="SortIt! Malaysia Homepage">
     </td>
     <td align="center" width="50%">
-      <strong>Recycling Guide</strong><br><br>
-      <img src="UI_design/Recycling%20Guide.png" width="70%" alt="Recycling Guide">
+      <strong>Nearby Recycling Centres</strong><br><br>
+      <img src="UI_sortIt/nearbyrecycle.png" width="70%" alt="Nearby Recycling Centres">
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <strong>Recycling Centre Locator</strong><br><br>
-      <img src="UI_design/Locator.png" width="70%" alt="Recycling Centre Locator">
+      <strong>Recycling Quiz</strong><br><br>
+      <img src="UI_sortIt/Quiz.png" width="70%" alt="Recycling Quiz">
     </td>
     <td align="center" width="50%">
-      <strong>Points & Rewards</strong><br><br>
-      <img src="UI_design/Rewards.png" width="70%" alt="Points and Rewards">
+      <strong>Leaderboard</strong><br><br>
+      <img src="UI_sortIt/Leaderboard.png" width="70%" alt="Recycling Leaderboard">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <strong>Barcode</strong><br><br>
+      <img src="UI_sortIt/barcode.png" width="70%" alt="Recycling Barcode">
+    </td>
+    <td align="center" width="50%">
+      <strong>Rewards</strong><br><br>
+      <img src="UI_sortIt/reward.png" width="70%" alt="Recycling Rewards">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <strong>Redemption</strong><br><br>
+      <img src="UI_sortIt/redemption.png" width="70%" alt="Redeem Rewards">
+    </td>
+    <td align="center" width="50%">
+      <strong>Sustainability Education</strong><br><br>
+      <img src="UI_sortIt/sustainEdu.png" width="70%" alt="Sustainability Education">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <strong>Additional Recycling Information</strong><br><br>
+      <img src="UI_sortIt/additionalInfo.png" width="45%" alt="Additional Recycling Information">
     </td>
   </tr>
 </table>
