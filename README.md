@@ -1,4 +1,3 @@
-# SortIt
 # SortIt! Malaysia ♻️
 
 ### A Recycling Guide & Locator App
